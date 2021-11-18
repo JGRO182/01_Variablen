@@ -34,3 +34,5 @@ firstName = 'k';
 console.log(firstName);
 console.log("firstName: "+typeof(firstName)+" "+ firstName);
 
+
+//
