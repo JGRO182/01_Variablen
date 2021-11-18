@@ -34,5 +34,5 @@ firstName = 'k';
 console.log(firstName);
 console.log("firstName: "+typeof(firstName)+" "+ firstName);
 
-
-//
+const test = 5;
+console.log("test: "+ typeof(test)+ " " +test);
