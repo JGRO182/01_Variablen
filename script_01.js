@@ -24,12 +24,13 @@
 // console.log("alter:",alter);
 
 
-let firstName, lastName;
-firstName = prompt("Bitte Vornamen eingeben");
-lastName = prompt("Bitte Nachnamen eingeben");
-console.log(firstName+" "+lastName);
-
-firstName = prompt("Bitte Vorname eingeben");
-console.log(firstName+" "+lastName);
-
+// let firstName, lastName;
+// firstName = prompt("Bitte Vornamen eingeben");
+// lastName = prompt("Bitte Nachnamen eingeben");
+// console.log(firstName+" "+lastName);
+let firstName = "Max;"
+firstName = 'k';
+// firstName = prompt("Bitte Vorname eingeben");
+console.log(firstName);
+console.log("firstName: "+typeof(firstName)+" "+ firstName);
 
